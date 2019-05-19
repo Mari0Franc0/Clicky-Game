@@ -1,0 +1,19 @@
+.banner {
+  background-image: url("../../images/xmen.jpg");
+  background-repeat: no-repeat;
+  background-size: 1400px auto;
+  background-position: center top;
+  width: 100%;
+  height: 250px;
+  margin: 0 !important;
+  padding: 0 !important;
+  padding-top: 30px;
+  color: white;
+  font-size: 20px bold;
+}
+
+@media (min-width: 576px) {
+  .banner {
+    font-size: calc(10px + 14 * (100vw - 320px) / 800);
+  }
+}

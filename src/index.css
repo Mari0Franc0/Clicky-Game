@@ -1,0 +1,9 @@
+body {
+  background-image: url("../src/images/xmen2.jpg");
+  margin: 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
