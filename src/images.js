@@ -7,7 +7,7 @@ import Xavier from "./images/xavier.jpg";
 import Archangel from "./images/archangel.jpg";
 import Wolverine from "./images/wolverine.jpg";
 import Jean from "./images/jean.jpg";
-import Juggernault from "./images/juggernault.jpg";
+import Juggernaut from "./images/juggernault.jpg";
 import Apocalypse from "./images/apocalypse.jpg";
 import Storm from "./images/storm.jpg";
 
@@ -21,7 +21,7 @@ const images = [
   Archangel,
   Wolverine,
   Jean,
-  Juggernault,
+  Juggernaut,
   Apocalypse,
   Storm
 ];
