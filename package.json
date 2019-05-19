@@ -17,13 +17,13 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KingArthurLA/Clicky-Game.git"
+    "url": "git+https://github.com/Mari0Franc0/Clicky-Game"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KingArthurLA/Clicky-Game/issues"
+    "url": "https://github.com/Mari0Franc0"
   },
-  "homepage": "https://github.com/KingArthurLA/Clicky-Game#readme",
+  "homepage": "https://github.com/Mari0Franc0/Clicky-Game",
   "devDependencies": {}
 }
